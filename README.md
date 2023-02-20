@@ -1,4 +1,4 @@
-# ChatGPT-Telegrame-Bot-Python
+# ChatGPT-Telegram-Bot-Python
 A ChatGPT Bot of Telegram in Python
 
 Sorry for the misspelling Title of this repo. 
