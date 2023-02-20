@@ -12,7 +12,7 @@ It's a open-source Telegram Bot that use OpenAI GPT-3 API. The Bot has two main 
 Set the environment variable with your OpenAI API key and your telegram bot key
 ```bash
 export TGBOT_KEY=<your telegram bot key>
-export OPENAI_API_KEY=<your OpenAI API key>
+export OPENAI_KEY=<your OpenAI API key>
 ```
 
 Then run the chatbot with
